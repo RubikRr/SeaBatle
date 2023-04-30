@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeaBatle", "SeaBatle.csproj", "{EAC1B39E-9639-466A-BEA3-E0EDC8DD7EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC1B39E-9639-466A-BEA3-E0EDC8DD7EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC1B39E-9639-466A-BEA3-E0EDC8DD7EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC1B39E-9639-466A-BEA3-E0EDC8DD7EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC1B39E-9639-466A-BEA3-E0EDC8DD7EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD764B2-FAAF-44E2-A417-04870AD43A70}
+	EndGlobalSection
+EndGlobal
